@@ -1,0 +1,28 @@
+title: Materia Orb Spell Icons
+originalAuthor: dallin1016
+description: 'Changes the Icons for Spells to be Materia Orbs made by MasterLeytrx.'
+assets:
+- name: remastered/itempic/item-324.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-324.imd/-0.dds
+- name: remastered/itempic/item-325.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-325.imd/-0.dds
+- name: remastered/itempic/item-326.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-326.imd/-0.dds
+- name: remastered/itempic/item-327.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-327.imd/-0.dds
+- name: remastered/itempic/item-328.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-328.imd/-0.dds
+- name: remastered/itempic/item-329.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-329.imd/-0.dds
